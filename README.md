@@ -1,4 +1,4 @@
-# โจทย์ข้อที่ 2 วิชา 219496 Cefi vs Defi
+# โจทย์ข้อที่ 3 วิชา 219496 Cefi vs Defi
 # Hands-on Exercise: Flash Loan based Liquidation
 
 ## Exercise
